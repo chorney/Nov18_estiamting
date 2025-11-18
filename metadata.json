@@ -1,0 +1,5 @@
+{
+  "name": "EstiMate Pro",
+  "description": "An enterprise-grade construction estimating platform powered by Gemini AI, featuring WBS management, resource cost breakdown, and automated estimation generation.",
+  "requestFramePermissions": []
+}
